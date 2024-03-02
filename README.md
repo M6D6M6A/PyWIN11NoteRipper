@@ -20,6 +20,7 @@
 -   [ ] Parse full header.
 -   [ ] Parse body end.
 -   [ ] Parse magic files `.0.bin` and `.1.bin`.
+-   [ ] Generate new Tabs.
 
 # Installation
 
