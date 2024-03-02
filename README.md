@@ -17,6 +17,9 @@
 -   [x] Parse saved or unsaved changes of all tabs.
 -   [x] Export all data including bytes data to quickly compare changes in different versions.
 -   [ ] Parse the cache of changes while notepad is still open.
+-   [ ] Parse full header.
+-   [ ] Parse body end.
+-   [ ] Parse other magic files `.0.bin` and `.1.bin`.
 
 # Installation
 
