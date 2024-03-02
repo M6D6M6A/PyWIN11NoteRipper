@@ -106,7 +106,7 @@ class Win11NoteTabParser:
 
         self.body_bytes = data[delimiter_end + 4 : self._body_end_index]
         self.body_utf16 = self._decode_utf16(self.body_bytes)
-        logger.debug(f'self.body_utf16 (1000 chars max) = {self.body_utf16[ : 1001]}')
+        logger.debug(f'{len(self.body_utf16) = }')
 
         # Save the last bytes of the file body
         self.body_end_bytes = data[self._body_end_index : ]
