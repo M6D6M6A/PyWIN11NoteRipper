@@ -12,15 +12,20 @@
 
 # Features
 
-- [x] Load all notepad tab binary files.
-- [x] Parse saved or unsaved changes of all tabs.
-- [x] Export all data including bytes data to quickly compare changes in different versions.
-- [ ] Parse the cache of changes while notepad is still open.
+-   [x] Load all notepad tab binary files.
+-   [x] Parse saved or unsaved changes of all tabs.
+-   [x] Export all data including bytes data to quickly compare changes in different versions.
+-   [ ] Parse the cache of changes while notepad is still open.
 
 # Installation
 
 1. Download this repo with git or as a zip.
 2. Run `print.py` to print all the information to the console or use `rip.py` to export it to `/rip` in the same folder as `.json`.
+
+# Settings
+
+1. Navigate to the folder containing `print.py` and `rip.py`.
+2. The settings can be changed in `win11_note_ripper/settings.py`, all valid options are listed after the comment.
 
 # Know Errors
 
