@@ -2,13 +2,14 @@
 
 # Py WIN11 Note Ripper
 
-|           |                |
-| :-------- | -------------: |
-| Author    | Philipp Reuter |
-| Version   |    Alpha 0.0.1 |
-| Tested OS |     Windows 11 |
-| Discord   |        mpb.rip |
-| Python    | 3.11+ (tested) |
+|           |                                                             |
+| :-------- | ----------------------------------------------------------: |
+| Credits   | [John Hammond](https://www.youtube.com/watch?v=zSSBbv2fc2s) |
+| Author    |                                              Philipp Reuter |
+| Version   |                                                 Alpha 0.0.1 |
+| Tested OS |                                                  Windows 11 |
+| Discord   |                                                     mpb.rip |
+| Python    |                                              3.11+ (tested) |
 
 # Features
 
